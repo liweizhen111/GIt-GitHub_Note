@@ -1,9 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T01:56:49.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="QngLZC9kGQqHwtwet80h" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T02:26:53.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8hLTrmJp-KyVHBbwN7wu" version="24.6.2" type="github">
   <diagram name="第 1 页" id="pIyq3l0sL7t9aEKKWsgh">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ssd41iKPIGtk5OjcM02k-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="571" width="614" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="894" y="624" width="30" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="95.5" y="469" width="299" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-1" value="RoBert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="112" y="574" width="265" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-2" value="[CLS] is it humid in parc national de killarney" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="112" y="658" width="266" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-3" value="7-way classification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="112" y="484" width="263" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="677" as="sourcePoint" />
+            <mxPoint x="425" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-8" value="is it humid in parc national de killarney" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="595" width="292" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-9" value="is it cloudy in georgia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="627" width="292" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-10" value="book a table in greece for 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="292" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-12" value="rate this novel three out of 6 stars" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="692" width="292" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-15" value="GetWeather" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="745" y="595" width="94" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-16" value="GetWeather" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="745" y="627" width="94" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-17" value="BookRestaurant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="745" y="662" width="94" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-18" value="RateBook" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="745" y="692" width="94" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="848" y="605.5" as="sourcePoint" />
+            <mxPoint x="888" y="605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="848" y="636" as="sourcePoint" />
+            <mxPoint x="888" y="636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="672.5" as="sourcePoint" />
+            <mxPoint x="889" y="672.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="701" as="sourcePoint" />
+            <mxPoint x="889" y="701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="898" y="690" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="898" y="662" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="898" y="628" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="898" y="597" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-31" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="929" y="670.5" as="sourcePoint" />
+            <mxPoint x="962" y="670.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-32" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="605.5" as="sourcePoint" />
+            <mxPoint x="962" y="605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="951" y="628" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="961.86" y="606" as="sourcePoint" />
+            <mxPoint x="962" y="628" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="960.5" y="637.5" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="961.86" y="670" as="sourcePoint" />
+            <mxPoint x="962" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-40" value="Contrastive Loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="976" y="623" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssd41iKPIGtk5OjcM02k-41" value="Bath_size设置为4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="567" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
