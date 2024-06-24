@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T02:37:52.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="STLX2o1yvAwQP1iqcAFG" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T02:38:30.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0lqr8k1bu3m36L32XR6h" version="24.6.2" type="github">
   <diagram name="第 1 页" id="pIyq3l0sL7t9aEKKWsgh">
-    <mxGraphModel dx="989" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,8 +121,8 @@
         <mxCell id="ssd41iKPIGtk5OjcM02k-40" value="Contrastive Loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="976" y="623" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ssd41iKPIGtk5OjcM02k-41" value="Bath_size设置为4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="438" y="567" width="100" height="30" as="geometry" />
+        <mxCell id="ssd41iKPIGtk5OjcM02k-41" value="Batch_size设置为4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="567" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ssd41iKPIGtk5OjcM02k-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ssd41iKPIGtk5OjcM02k-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
