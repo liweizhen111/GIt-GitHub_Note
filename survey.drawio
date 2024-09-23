@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NQQZQObjNg2_o2cvGMOL-75" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="204.5" y="520.5" width="202.5" height="14" as="geometry" />
+          <mxGeometry x="206" y="520.5" width="201" height="14" as="geometry" />
         </mxCell>
         <mxCell id="NQQZQObjNg2_o2cvGMOL-72" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="204" y="608" width="203.75" height="14" as="geometry" />
@@ -31,8 +31,8 @@
         <mxCell id="NQQZQObjNg2_o2cvGMOL-22" value="(b) One-step method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="666" y="597" width="125" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;O&amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp;B-year O B-artist I-artist&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="204.5" y="521.5" width="201.5" height="10" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;O&amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp;B-year O B-artist I-artist&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="521.5" width="201" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NQQZQObjNg2_o2cvGMOL-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;play music from 2005 by justin broadrick&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="631" y="549.5" width="203" height="16" as="geometry" />
