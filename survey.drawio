@@ -1,35 +1,104 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="第 1 页" id="Xgn7JFJzemk7u9-qeJvL">
-    <mxGraphModel dx="911" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sequence Labeling model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="530" width="204" height="43" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NQQZQObjNg2_o2cvGMOL-46" target="NQQZQObjNg2_o2cvGMOL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="553" width="78" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NQQZQObjNg2_o2cvGMOL-45" target="NQQZQObjNg2_o2cvGMOL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="983" y="553" width="26" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sequence Labeling Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="549.5" width="206" height="19" as="geometry" />
         </mxCell>
         <mxCell id="NQQZQObjNg2_o2cvGMOL-4" value="(a) pipline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="614" width="76" height="12" as="geometry" />
+          <mxGeometry x="449" y="597" width="76" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-6" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;track&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="451" y="588" width="28" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-13" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;track&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="331" width="28" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-7" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;to&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="588" width="28" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-14" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;to&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="331" width="28" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;this&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="588" width="28" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-15" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;this&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="331" width="28" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-9" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;add&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="588" width="28" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-16" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;add&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="331" width="28" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-10" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;my&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="588" width="28" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-17" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;my&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="331" width="28" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-11" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;global&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="588" width="32" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-18" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;global&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="331" width="32" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="NQQZQObjNg2_o2cvGMOL-12" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;my&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="588" width="28" height="13" as="geometry" />
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-19" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;my&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="331" width="28" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;play music from 2005&amp;nbsp; by justin broadrick&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="577" width="212" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-22" value="(b) One-step method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="666" y="597" width="125" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;O&amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp;B-year O B-artist I-artist&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="522" width="207" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;play music from 2005 by justin broadrick&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="631" y="549.5" width="203" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-30" value="(c) Two-step method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="907" y="597" width="125" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="609" as="sourcePoint" />
+            <mxPoint x="601" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;O&amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;O&amp;nbsp; &amp;nbsp; &amp;nbsp; B&amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp;O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="522" width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;O&amp;nbsp; &amp;nbsp; &amp;nbsp;O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638" y="579" width="192" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;year&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="604" y="525" width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;artist&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="580" width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="839" y="609" as="sourcePoint" />
+            <mxPoint x="838" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;play music from 2005 by justin broadrick&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="550.5" width="203" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;O&amp;nbsp; &amp;nbsp; &amp;nbsp;O&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp; B&amp;nbsp; &amp;nbsp; O&amp;nbsp; &amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="907" y="579" width="192" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;Step 1&lt;br&gt;Slot Entity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="574" width="57" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;Step 2&lt;br&gt;Type Dectection&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="525" width="82" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;year&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="983" y="526" width="26" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="NQQZQObjNg2_o2cvGMOL-52" value="artist" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="526" width="78" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
