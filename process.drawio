@@ -27,7 +27,7 @@
           <mxGeometry x="216" y="54" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="最后的规则整合(目前是取重排相似度最高的TOP3)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
-          <mxGeometry x="190" y="391" width="726" height="50" as="geometry" />
+          <mxGeometry x="163" y="373" width="726" height="50" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-98" value="关键字检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="250" width="64" height="22" as="geometry" />
