@@ -161,11 +161,19 @@
         <mxCell id="18Gt26L3QcKM89W_5jB1-153" value="最后的规则整合(目前是取重排相似度最高的TOP3)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="190" y="950" width="726" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18Gt26L3QcKM89W_5jB1-154" target="18Gt26L3QcKM89W_5jB1-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-154" value="关键字检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="771.5" width="64" height="22" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-155" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="734.5" width="64" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="18Gt26L3QcKM89W_5jB1-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="268.11764705882365" y="813.2941176470588" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-156" value="重排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272" y="771.5" width="64" height="22" as="geometry" />
@@ -181,8 +189,13 @@
             <mxPoint x="458.5" y="870.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18Gt26L3QcKM89W_5jB1-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458.7058823529412" y="945.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="726.5" width="156" height="76" as="geometry" />
+          <mxGeometry x="380.5" y="726.5" width="156" height="162.5" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-161" value="关键字检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388.5" y="732.5" width="64" height="22" as="geometry" />
@@ -198,8 +211,13 @@
             <mxPoint x="647.5" y="865.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18Gt26L3QcKM89W_5jB1-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646.9411764705883" y="942.7058823529412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="569.5" y="724.5" width="156" height="76" as="geometry" />
+          <mxGeometry x="569.5" y="724.5" width="156" height="161.5" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-166" value="关键字检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="730.5" width="64" height="22" as="geometry" />
@@ -247,8 +265,13 @@
             <mxPoint x="833.5" y="865.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18Gt26L3QcKM89W_5jB1-180">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834" y="941.5294117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-180" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="724.5" width="156" height="76" as="geometry" />
+          <mxGeometry x="755.5" y="724.5" width="156" height="161.5" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-181" value="关键字检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="763.5" y="730.5" width="64" height="22" as="geometry" />
@@ -268,8 +291,17 @@
         <mxCell id="18Gt26L3QcKM89W_5jB1-186" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="716" y="895" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="18Gt26L3QcKM89W_5jB1-188" value="Score =&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="58" y="639" width="120" height="60" as="geometry" />
+        <mxCell id="18Gt26L3QcKM89W_5jB1-188" value="Score = weight / (rank + c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="822" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-189" value="Score = weight / (rank + c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="822" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-193" value="Score = weight / (rank + c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="822" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18Gt26L3QcKM89W_5jB1-194" value="Score = weight / (rank + c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="822" width="149" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
