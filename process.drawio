@@ -197,14 +197,11 @@
         <mxCell id="18Gt26L3QcKM89W_5jB1-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380.5" y="726.5" width="156" height="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="18Gt26L3QcKM89W_5jB1-161" value="关键字检索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="771.5" width="64" height="22" as="geometry" />
-        </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-162" value="向量检索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="463.5" y="732.5" width="64" height="22" as="geometry" />
+          <mxGeometry x="426" y="734.5" width="64" height="22" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-163" value="重排" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="463.5" y="771.5" width="64" height="22" as="geometry" />
+          <mxGeometry x="426" y="771.5" width="64" height="22" as="geometry" />
         </mxCell>
         <mxCell id="18Gt26L3QcKM89W_5jB1-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="18Gt26L3QcKM89W_5jB1-165" edge="1">
           <mxGeometry relative="1" as="geometry">
