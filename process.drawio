@@ -573,7 +573,7 @@
         <mxCell id="C2I1dSf4Ovgzt2lo41Az-128" value="原始查询" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="187.5" y="2769.5" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C2I1dSf4Ovgzt2lo41Az-129" value="最后的规则整合(采用新的投票机制，可以综合考虑所有检索路的规则，票数最高的TOP3)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+        <mxCell id="C2I1dSf4Ovgzt2lo41Az-129" value="最后的规则整合(采用新的投票机制，可以综合考虑所有检索路的规则，票数最高的TOP3规则)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="173" y="3181" width="582" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C2I1dSf4Ovgzt2lo41Az-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C2I1dSf4Ovgzt2lo41Az-131" target="C2I1dSf4Ovgzt2lo41Az-149">
