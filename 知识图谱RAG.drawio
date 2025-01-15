@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="26.0.4">
   <diagram name="第 1 页" id="eWlho-4njupO0lev5rUA">
-    <mxGraphModel dx="1900" dy="1047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="-33" y="40" width="158" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-28" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="844" y="24" width="753" height="1024" as="geometry" />
+          <mxGeometry x="844" y="24" width="954" height="1024" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-29" value="用户查询" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="1171" y="41" width="90" height="35" as="geometry" />
@@ -271,6 +271,21 @@
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-125" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;edge_degree：获取边的度&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1128.22" y="782" width="184.57" height="24.43" as="geometry" />
+        </mxCell>
+        <mxCell id="oanOTafGp6MQvB_tRIH2-126" value="最相关文本（蕴含实体数来排序）" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="1573.5" y="917" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="oanOTafGp6MQvB_tRIH2-127" value="所有实体描述" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="1255" y="937" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="oanOTafGp6MQvB_tRIH2-128" value="最相关边描述（根据边的度排序）" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="1374.5" y="937" width="123" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="oanOTafGp6MQvB_tRIH2-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oanOTafGp6MQvB_tRIH2-129" target="oanOTafGp6MQvB_tRIH2-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oanOTafGp6MQvB_tRIH2-129" value="&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;基于node1和node2&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;获取最相关的文本块：&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;类似于BM25，用周围&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;的结点去衡量所有文本&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;块的相关性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1559" y="607" width="122" height="104.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
