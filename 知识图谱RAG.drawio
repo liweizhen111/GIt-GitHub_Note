@@ -255,8 +255,8 @@
         <mxCell id="oanOTafGp6MQvB_tRIH2-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oanOTafGp6MQvB_tRIH2-115" target="oanOTafGp6MQvB_tRIH2-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oanOTafGp6MQvB_tRIH2-115" value="&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;基于node1和node2&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;获取最相关的文本块：&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;类似于BM25，用周围&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;的结点去衡量所有文本&lt;/div&gt;&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;块的相关性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="856" y="604.25" width="122" height="104.5" as="geometry" />
+        <mxCell id="oanOTafGp6MQvB_tRIH2-115" value="&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="604.25" width="115" height="163.75" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-118" value="最相关文本（蕴含实体数来排序）" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="852" y="917" width="93" height="48" as="geometry" />
@@ -297,8 +297,11 @@
         <mxCell id="oanOTafGp6MQvB_tRIH2-137" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;node_degree：获取节点的度,用于表示节点的重要性&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947.75" y="501" width="164.5" height="23.14" as="geometry" />
         </mxCell>
-        <mxCell id="oanOTafGp6MQvB_tRIH2-140" value="基于结点和其度来确定最重要的文本块" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oanOTafGp6MQvB_tRIH2-140" value="基于结点和度来确定最重要的文本块" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="856" y="563.7800000000001" width="124.71" height="24.43" as="geometry" />
+        </mxCell>
+        <mxCell id="oanOTafGp6MQvB_tRIH2-141" value="会先检索到2个相关的节点，然后找到与这两个节点相连的所有结点。统计每个结点与其他结点的相关数量，以及结点来自的文本。最后按照结点相似度和相关结点数量进行排序。就可以获取最相关结点的文本单元。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="856.71" y="646" width="114.29" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
