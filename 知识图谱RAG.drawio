@@ -266,14 +266,14 @@
         <mxCell id="oanOTafGp6MQvB_tRIH2-115" value="&lt;div style=&quot;text-align: start; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="856" y="604.25" width="115" height="163.75" as="geometry" />
         </mxCell>
-        <mxCell id="oanOTafGp6MQvB_tRIH2-118" value="最相关文本（蕴含实体数来排序）" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="852" y="917" width="93" height="48" as="geometry" />
+        <mxCell id="oanOTafGp6MQvB_tRIH2-118" value="最相关文本（蕴含实体数来排序，即信息密度）" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="852" y="917" width="103" height="48" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-119" value="所有实体描述" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="969.79" y="937" width="74" height="28" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-120" value="最相关边描述（根据查询与边的相关性、边的权重来排序）" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="1079" y="937" width="123" height="28" as="geometry" />
+          <mxGeometry x="1079" y="924" width="123" height="42" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-124" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;knowledge_graph_inst&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;get_edge:获取边&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1112.57" y="760.57" width="212.43" height="26" as="geometry" />
