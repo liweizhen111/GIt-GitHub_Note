@@ -308,7 +308,7 @@
         <mxCell id="oanOTafGp6MQvB_tRIH2-140" value="基于结点和度来确定最重要的文本块：目的是确保这个文本块的信息密度是最高的。" style="text;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="851.5" y="533.07" width="124.71" height="24.43" as="geometry" />
         </mxCell>
-        <mxCell id="oanOTafGp6MQvB_tRIH2-141" value="会先检索到2个相关的节点，然后找到与这两个节点相连的所有结点。统计每个结点与其他结点的相关联系数量，以及结点来自的文本。最后按照结点相似度和相关结点数量进行排序。就可以获取最相关结点的文本单元。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oanOTafGp6MQvB_tRIH2-141" value="会先检索到2个相关的节点，然后找到与这两个节点相连的所有结点。统计每个结点与其他结点的相关联系数量，以及结点来自的文本。&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;最后按照结点相似度和文本内相关结点的数量对文本进行排序&lt;/span&gt;。就可以获取最相关结点的文本单元。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="856.71" y="646" width="114.29" height="76" as="geometry" />
         </mxCell>
         <mxCell id="oanOTafGp6MQvB_tRIH2-144" value="_find_most_related_edges_from_entities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
